@@ -17,6 +17,7 @@ export function TransactionsTable() {
             <th>Categoria</th>
             <th>Data</th>
           </tr>
+          Entradas
         </thead>
 
         <tbody>
